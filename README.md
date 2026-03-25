@@ -1,2 +1,2 @@
 # yt_downloader
-Youtube downloader app using tkinter and pytube
+Youtube downloader app using pyqt6 and pytube
