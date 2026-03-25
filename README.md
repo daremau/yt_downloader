@@ -1,6 +1,6 @@
-# YouTube Downloader
+# Video Downloader
 
-A desktop application for downloading YouTube videos and playlists in various qualities.
+A desktop application for downloading videos and playlists in various qualities.
 
 ## Features
 
@@ -59,7 +59,7 @@ source venv/bin/activate  # Linux/macOS
 python main.py
 ```
 
-3. Enter a YouTube URL and click "Fetch" to load video/playlist info
+3. Enter a URL and click "Fetch" to load video/playlist info
 4. Select quality for each video (or use "Apply to all" for playlists)
 5. Choose download location with "Browse"
 6. Click "Download"
