@@ -19,12 +19,12 @@ A desktop application for downloading videos and playlists in various qualities.
 
 **Ubuntu/Debian:**
 ```bash
-sudo apt install python3-tk ffmpeg
+sudo apt install ffmpeg
 ```
 
 **Fedora:**
 ```bash
-sudo dnf install python3-tk ffmpeg
+sudo dnf install ffmpeg
 ```
 
 **macOS:**
